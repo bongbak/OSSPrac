@@ -7,4 +7,4 @@
 -  Subject : Git & Github
 
   ##Prac5
-    Fetch & merge A
+- Fetch & merge A
